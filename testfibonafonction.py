@@ -1,7 +1,6 @@
 #!/usr/bin/env python 3
 
 # Suite de Fibonnaci : Un+2 = Un+1 + Un
-# U0 = 0 U1 = 1
 
 # RECURSIVE
 
